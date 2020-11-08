@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Breast Cancer</string>
+
+    <string-array name="list_age">
+        <item>10-19</item>
+        <item>20-29</item>
+        <item>30-39</item>
+        <item>40-49</item>
+        <item>50-59</item>
+        <item>60-69</item>
+        <item>70-79</item>
+        <item>80-89</item>
+        <item>90-99</item>
+    </string-array>
+    
+    <string-array name="list_menopause">
+        <item>lt40</item>
+        <item>ge40</item>
+        <item>premeno</item>
+    </string-array>
+    
+    <string-array name="list_tumorsize">
+        <item>0-4</item>
+        <item>5-9</item>
+        <item>10-14</item>
+        <item>15-19</item>
+        <item>20-24</item>
+        <item>25-29</item>
+        <item>30-34</item>
+        <item>35-39</item>
+        <item>40-44</item>
+        <item>45-49</item>
+        <item>50-54</item>
+        <item>55-59</item>
+    </string-array>
+    
+    <string-array name="list_lymph_nodes">
+        <item>0-2</item>
+        <item>3-5</item>
+        <item>6-8</item>
+        <item>9-11</item>
+        <item>12-14</item>
+        <item>15-17</item>
+        <item>18-20</item>
+        <item>21-23</item>
+        <item>24-26</item>
+        <item>27-29</item>
+        <item>30-32</item>
+        <item>33-35</item>
+        <item>36-39</item>
+    </string-array>
+    
+    <string-array name="list_node_caps">
+        <item>yes</item>
+        <item>no</item>
+    </string-array>
+
+    <string-array name="list_malignance">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="list_breast">
+        <item>left</item>
+        <item>right</item>
+    </string-array>
+
+    <string-array name="list_breast_quad">
+        <item>left-up</item>
+        <item>left-low</item>
+        <item>right-up</item>
+        <item>right-low</item>
+        <item>central</item>
+    </string-array>
+
+    <string-array name="list_irradiant">
+        <item>yes</item>
+        <item>no</item>
+    </string-array>
+</resources>
